@@ -1,15 +1,14 @@
 # Hi 👋, I'm Diao sakura
 
-
-
-<p align="left"> <a href="https://twitter.com/diao sakura" target="blank"><img src="https://img.shields.io/twitter/follow/diao sakura?logo=twitter&style=for-the-badge" alt="diao sakura" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DiaoSakura69410" target="blank"><img src="https://img.shields.io/twitter/follow/@DiaoSakura69410?logo=twitter&style=for-the-badge" alt="@DiaoSakura69410" /></a> </p>
 
 - 📫 How to reach me **diaosakura@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/diao sakura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="diao sakura" height="30" width="40" /></a>
-<a href="https://twitter.com/diao sakura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diao sakura" height="30" width="40" /></a>
+<a href="https://github.com/diaosakura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="diaosakura" height="30" width="40" /></a>
+<a href="https://twitter.com/@DiaoSakura69410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@DiaoSakura69410" height="30" width="40" /></a>
+<a href="https://leetcode.com/diao-xiong-5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diao-xiong-5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
