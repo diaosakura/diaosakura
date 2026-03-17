@@ -8,7 +8,6 @@
 <p align="left">
 <a href="https://github.com/diaosakura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="diaosakura" height="30" width="40" /></a>
 <a href="https://twitter.com/@DiaoSakura69410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@DiaoSakura69410" height="30" width="40" /></a>
-<a href="https://leetcode.com/diao-xiong-5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diao-xiong-5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
